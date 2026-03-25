@@ -1,5 +1,9 @@
-## WuWenJin
+## Wu WenJin
 Let me introduce myself, and let's get to know one another.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/idontcarethishahaha/idontcarethishahaha/main/src/cat.gif" width="100" style="position:relative; top:20px;" alt="cat"/>
+</div>
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=18&color=FF69B4&center=true&width=900&lines=Hi,+I'm+Wenjin+Wu.+Nice+to+meet+you+~"/>
