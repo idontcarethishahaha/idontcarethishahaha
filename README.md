@@ -32,6 +32,10 @@ Let me introduce myself, and let's get to know one another.
     <img src="https://img.shields.io/badge/GitHub-个人主页-5E80F7?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
+  <a href="https://gitee.com/wuwenjincat">
+    <img src="https://img.shields.io/badge/Gitee-个人主页-C71D23?style=flat-square&logo=gitee&logoColor=white" alt="Gitee"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/idontcarethishahaha/leetcodehot100">
     <img src="https://img.shields.io/badge/LeetCode-Hot100题解-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
