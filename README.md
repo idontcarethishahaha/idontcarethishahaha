@@ -1,4 +1,4 @@
-## Wu WenJin
+## Wu Wenjin
 Let me introduce myself, and let's get to know one another.
 
 <div align="center">
