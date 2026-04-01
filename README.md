@@ -20,8 +20,8 @@ Let me introduce myself, and let's get to know one another.
   </p>
 </div>
 
-- 专注 Java 后端技术学习，热爱编程与工程实践。
-- 持续更新 LeetCode 题解、学习笔记与项目代码。
+- 专注 Java 后端技术学习，前端也有涉猎，热爱编程与工程实践。
+- 持续更新算法、数据结构学习笔记与项目代码。
 - 目前主要寻找 **Java 后端开发实习**，也欢迎其他技术方向的交流。
 - 如果对我的项目或学习笔记感兴趣，欢迎一起交流、学习、进步。
 
@@ -55,7 +55,7 @@ Let me introduce myself, and let's get to know one another.
 - 后端：Java、Spring Boot、Spring MVC、MyBatis
 - 前端：Vue、HTML、CSS、JavaScript
 - 数据库：MySQL
-- 中间件：Redis
-- 工具：Git、IDEA、VS Code
+- 中间件：Redis、ElasticSearch、ECharts
+- 工具：Git、IDEA、VS Code、Docker
 
 > Keep Coding, Keep Learning.
