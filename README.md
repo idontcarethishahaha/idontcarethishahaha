@@ -53,7 +53,7 @@ Let me introduce myself, and let's get to know one another.
 
 ### 技能方向
 - 后端：Java、Spring Boot、Spring MVC、MyBatis
-- 前端：Vue、HTML、CSS、JavaScript
+- 前端：Vue、HTML、CSS、JavaScript、Nginx
 - 数据库：MySQL
 - 中间件：Redis、ElasticSearch、ECharts
 - 工具：Git、IDEA、VS Code、Docker
