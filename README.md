@@ -1,4 +1,4 @@
-## Wu Wenjin
+## Wenjin Wu
 Let me introduce myself, and let's get to know one another.
 
 <div align="center">
@@ -52,10 +52,10 @@ Let me introduce myself, and let's get to know one another.
 ---
 
 ### 技能方向
-- 后端：Java、Spring Boot、Spring MVC、MyBatis
-- 前端：Vue、HTML、CSS、JavaScript
+- 后端：Java、Spring Boot、Spring MVC、MyBatis...
+- 前端：Vue、HTML、CSS、JavaScript...
 - 数据库：MySQL
-- 中间件：Redis、ElasticSearch、ECharts
-- 工具：Git、IDEA、VS Code、Docker
+- 中间件：Redis、ElasticSearch、ECharts...
+- 工具：Git、IDEA、VS Code、Docker...
 
 > Keep Coding, Keep Learning.
