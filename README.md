@@ -37,10 +37,6 @@ Let me introduce myself, and let's get to know one another.
     <img src="https://img.shields.io/badge/Gitee- 个人主页-C71D23?style=flat-square&logo=gitee&logoColor=white" alt="Gitee"/>
   </a>
   &nbsp;
-  <a href="https://github.com/idontcarethishahaha/leetcodehot100">
-    <img src="https://img.shields.io/badge/LeetCode-Hot100 题解-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  &nbsp;
   <a href="mailto:tomatocat1130@qq.com">
     <img src="https://img.shields.io/badge/ 邮箱-联系我-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
