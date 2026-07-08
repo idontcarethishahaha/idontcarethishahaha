@@ -83,11 +83,6 @@ Let me introduce myself, and let's get to know one another.
 
 ### 统计数据
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idontcarethishahaha&show_icons=true&theme=dracula&count_private=true" alt="stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idontcarethishahaha&layout=compact&theme=dracula" alt="languages"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=idontcarethishahaha&theme=dracula" alt="streak"/>
