@@ -52,30 +52,6 @@ Let me introduce myself, and let's get to know one another.
 
 ---
 
-### 技能方向
-
-#### 后端开发
-- **Java**、Spring Boot、Spring Cloud、Spring MVC、MyBatis、MyBatis-Plus
-- **数据库**：MySQL、Redis、Elasticsearch
-- **中间件**：RocketMQ、Nacos、Seata、XXL-Job、Qdrant
-
-#### AI 应用开发
-- **框架**：Spring AI、LangChain4j
-- **核心技术**：RAG（检索增强生成）、多智能体协作、Function Calling、对话记忆
-- **向量检索**：Embedding-3、Qdrant 向量数据库
-- **文档处理**：Markdown/PDF/Word 解析与分块
-
-#### 前端开发
-- **框架**：Vue 3、HTML、CSS、JavaScript
-- **工具**：Element Plus、ECharts
-
-#### 工具链
-- **版本控制**：Git、GitHub、Gitee
-- **开发工具**：IDEA、VS Code、Docker
-- **文档**：Swagger/Knife4j、Markdown
-
----
-
 > Keep Coding, Keep Learning.  
 > (=^･ω･^=) 喵～
 
