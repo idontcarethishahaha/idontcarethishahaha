@@ -52,14 +52,6 @@
 
 ---
 
-### 🤖 AI/ML 工具链
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,anaconda,jupyter&theme=tokyonight" />
-</p>
-
----
-
 ### 📊 GitHub 统计
 
 <p align="center">
@@ -68,15 +60,12 @@
 
 ---
 
-### 🐍 贡献图彩蛋
-
+### 🐍 贡献贪吃蛇动图
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/idontcarethishahaha/idontcarethishahaha/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/idontcarethishahaha/idontcarethishahaha/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/idontcarethishahaha/idontcarethishahaha/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/idontcarethishahaha/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/idontcarethishahaha/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/idontcarethishahaha/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
-
-> 启用方法：Fork [github-contribution-grid-snake](https://github.com/Platane/snk) 仓库，启用 GitHub Actions
 
 ---
 
