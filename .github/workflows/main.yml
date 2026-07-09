@@ -1,0 +1,40 @@
+name: generate animation
+
+on:
+  # 24小时自动更新
+  schedule:
+    - cron: "0 */24 * * *"
+  # 手动运行
+  workflow_dispatch:
+  # 推送到main分支自动执行
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # 只生成基础两套svg，输出到dist根目录，去掉only-svg/docker嵌套
+      - name: generate snake svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 推送到 output 分支（和别人完全一致）
+      - name: push svg to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
