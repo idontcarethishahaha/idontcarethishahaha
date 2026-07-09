@@ -61,7 +61,6 @@
 ---
 
 ### 🐍 贪吃蛇
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/idontcarethishahaha/idontcarethishahaha/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/idontcarethishahaha/idontcarethishahaha/output/github-contribution-grid-snake.svg">
@@ -71,7 +70,6 @@
 ---
 
 ### 🎵 正在听
-
 &nbsp;<div align="center">
   [![Last.fm](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://novatorem.vercel.app/redirect)
 </div>
