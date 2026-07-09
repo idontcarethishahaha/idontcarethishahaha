@@ -61,11 +61,14 @@
 ---
 
 ### 🐍 贡献贪吃蛇动图
+
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/idontcarethishahaha/idontcarethishahaha/output/only-svg/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/idontcarethishahaha/idontcarethishahaha/output/only-svg/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/idontcarethishahaha/idontcarethishahaha/output/only-svg/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/idontcarethishahaha/idontcarethishahaha/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/idontcarethishahaha/idontcarethishahaha/manual-run-output/only-svg/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/idontcarethishahaha/idontcarethishahaha/manual-run-output/only-svg/github-contribution-grid-snake.svg"/>
 </picture>
+</p>
 
 ---
 
