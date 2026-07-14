@@ -9,7 +9,7 @@
   <br/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
-    <strong>正在寻找 Java 后端 / AI 应用开发相关实习机会</strong>
+    <strong>正在寻找 后端 / AI 应用开发相关实习机会</strong>
   </p>
   <p>
     <code>🎓 211本科 | 2027届</code>
@@ -24,7 +24,7 @@
 
 - 主攻 Java 后端与 AI 应用开发，掌握前端基础技能，热爱编程与工程实践。
 - 持续更新算法、数据结构学习笔记与项目代码。
-- 目前主要寻找 **Java 后端开发 / AI 应用开发实习**，也欢迎其他技术方向的交流。
+- 目前主要寻找 **后端开发 / AI 应用开发实习**，也欢迎其他技术方向的交流。
 - 最近在深入学习 AI 应用开发（RAG、AI Agent、多模态）。
 - 如果对我的项目或学习笔记感兴趣，欢迎一起交流、学习、进步。
 
