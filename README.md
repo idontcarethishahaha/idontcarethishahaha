@@ -14,7 +14,7 @@
   <p>
     <code>🎓 211本科 | 2027届</code>
     &nbsp;&nbsp;
-    <code>💻 后端开发 / AI 应用 / 远程实习均可</code>
+    <code>💻 后端开发 / AI 应用开发 / 远程实习均可</code>
   </p>
 </div>
 
