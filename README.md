@@ -9,7 +9,7 @@
   <br/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
-    <strong>正在寻找 后端 / AI 应用开发相关实习机会</strong>
+    <strong>寻找 后端 / AI 应用开发 相关实习机会ing</strong>
   </p>
   <p>
     <code>🎓 211本科 | 2027届</code>
