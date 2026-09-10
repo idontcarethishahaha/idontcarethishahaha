@@ -9,12 +9,12 @@
   <br/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
-    <strong>寻找 后端 / AI 应用开发 相关工作机会ing</strong>
+    <strong>寻找 AI 应用 / 后端开发 相关工作机会ing</strong>
   </p>
   <p>
     <code>🎓 211本科 | 2027届</code>
     &nbsp;&nbsp;
-    <code>💻 后端开发 / AI 应用开发 / 远程实习均可</code>
+    <code>💻 AI 应用 / 后端开发 / 远程实习均可</code>
   </p>
 </div>
 
@@ -24,7 +24,7 @@
 
 - 主攻 后端与 AI 应用开发，掌握前端基础技能，热爱编程与工程实践。
 - 持续更新算法、数据结构学习笔记与项目代码。
-- 目前主要寻找 **后端开发 / AI 应用开发** 方向的工作机会，也欢迎其他技术方向的交流。
+- 目前主要寻找 **AI 应用开发 / 后端开发** 方向的工作机会，也欢迎其他技术方向的交流。
 - 最近在深入学习 AI 应用开发的相关知识（沉淀ing）。
 - 如果对我的项目或学习笔记感兴趣，欢迎一起交流、学习、进步。
 
