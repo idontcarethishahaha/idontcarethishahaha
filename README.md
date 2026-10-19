@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=22&color=FF69B4&center=true&width=600&lines=Hi,+I'm+Wenjin+Wu+%F0%9F%90%B1"/>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=16&color=87CEEB&center=true&vCenter=true&width=700&pause=100000&lines=Java+Backend+%7C+AI+Agent+Developer+%7C+2027"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=16&color=87CEEB&center=true&vCenter=true&width=700&pause=100000&lines=Full-stack+%7C+AI+Agent+Developer+%7C+2027"/>
   <br/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
