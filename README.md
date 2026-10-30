@@ -5,16 +5,16 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=22&color=FF69B4&center=true&width=600&lines=Hi,+I'm+Wenjin+Wu+%F0%9F%90%B1"/>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=16&color=87CEEB&center=true&vCenter=true&width=700&pause=100000&lines=Full-stack+%7C+AI+Agent+Developer+%7C+2027"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=16&color=87CEEB&center=true&vCenter=true&width=700&pause=100000&lines=Full-stack+%7C+AI+Agent+%7C+Game+Dev+%7C+2027"/>
   <br/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
-    <strong>寻找 AI 应用 / 后端开发 相关工作机会ing</strong>
+    <strong>寻找 全栈开发 / AI 应用 / 游戏开发 相关工作机会ing</strong>
   </p>
   <p>
     <code>🎓 211本科 | 2027届</code>
     &nbsp;&nbsp;
-    <code>💻 AI 应用 / 全栈开发 / 远程实习均可</code>
+    <code>💻 全栈开发 / AI 应用 / 游戏开发 全国可飞</code>
   </p>
 </div>
 
@@ -22,11 +22,11 @@
 
 ### 🐾 About Me
 
-- 主攻 全栈 & AI 应用开发，热爱编程与工程实践。
-- 持续更新算法、数据结构学习笔记与项目代码。
-- 目前主要寻找 **AI 应用开发 / 全栈开发** 方向的工作机会，也欢迎其他技术方向的交流。
-- 最近在深入学习 AI 应用开发的相关知识（沉淀ing）。
-- 如果对我的项目或学习笔记感兴趣，欢迎一起交流、学习、进步。
+- 主攻 全栈 & AI 应用开发，也有在学游戏开发相关
+- 持续更新学习笔记与项目代码(^ ^)
+- 目前主要寻找 **开发** 方向的工作机会，欢迎技术方向的交流
+- 最近在学习 AI 应用开发与游戏开发的相关知识（沉淀ing）
+- 如果对我的项目或学习笔记感兴趣，欢迎一起交流、学习、进步
 
 ---
 
